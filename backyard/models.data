@@ -1,0 +1,379 @@
+    <div class="slides">
+    <div class="slide visible models-overview-header page-section" data-invert="true">
+        <div class="page-section-container">
+            <div class="modern-grid">
+                <div class="column-1"></div>
+                <div class="column-10">
+                    <div class="spacer-120 m-spacer-80"></div>
+                    <div class="spacer-100 m-spacer-0"></div>
+                    <h1 class="type-120 m-type-60">From snug<br> to spacious.<br> Meet the<br class="desktop-hidden"> lineup.</h1>
+                    <div class="spacer-50 m-spacer-72"></div>
+                    <p class="type-24-light">Discover and compare Backyard models to find your perfect fit.</p>
+                    <p class="type-24-light color-white-60">Starting at $147,000 plus&nbsp;installation.</p>
+                    <div class="spacer-150 m-spacer-72"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide models-lineup">
+        <div class="spacer-72"></div>
+        <div class="models-lineup-scroll">
+            <div class="models-lineup-scroll-container">
+                <div class="models-lineup-scroll-model">
+                    <div class="models-lineup-scroll-model-label type-18 alt">Backyard XL 10</div>
+                    <div class="spacer-12"></div>
+                    <h2 class="type-36">Great food,<br /> great life.</h2>
+                    <div class="spacer-12"></div>
+                    <div class="type-14 color-text-60 models-lineup-scroll-model-subtitle">
+                        950 sq. ft.
+                        <span>|</span>
+                        2 bedrooms
+                        <span>|</span>
+                        2 baths
+                    </div>
+                    <div class="models-lineup-scroll-model-elevation">
+                        <a href="/backyard/xl-10"><img loading="lazy" src="/assets/images/backyard/models/models-index-xl-10/models-index-xl-10-1000.webp" alt="Backyard XL 10" /></a>
+                    </div>
+                    <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
+                    <div class="type-30-light">
+                        $267,000
+                        <span class="type-14 color-text-40">&thinsp;plus installation</span>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <div class="models-lineup-scroll-model-actions">
+                        <a href="/backyard/xl-10" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/backyard/configure#bonewhite+xl-10" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                    </div>
+                </div>
+                <div class="models-lineup-scroll-model">
+                    <div class="models-lineup-scroll-model-label type-18 alt">Backyard XL 8</div>
+                    <div class="spacer-12"></div>
+                    <h2 class="type-36">Room to roam,<br /> and then some.</h2>
+                    <div class="spacer-12"></div>
+                    <div class="type-14 color-text-60 models-lineup-scroll-model-subtitle">
+                        800 sq. ft.
+                        <span>|</span>
+                        2 bedrooms
+                        <span>|</span>
+                        2 baths
+                    </div>
+                    <div class="models-lineup-scroll-model-elevation">
+                        <a href="/backyard/xl-8"><img loading="lazy" src="/assets/images/backyard/models/models-index-xl-8/models-index-xl-8-1000.webp" alt="Backyard XL 8" /></a>
+                    </div>
+                    <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
+                    <div class="type-30-light">
+                        $233,000
+                        <span class="type-14 color-text-40">&thinsp;plus installation</span>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <div class="models-lineup-scroll-model-actions">
+                        <a href="/backyard/xl-8" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/backyard/configure#bonewhite+xl-8" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                    </div>
+                </div>
+                <div class="models-lineup-scroll-model">
+                    <div class="models-lineup-scroll-model-label type-18">Two bedroom</div>
+                    <div class="spacer-12"></div>
+                    <h2 class="type-36">Two bedrooms.<br /> Too perfect.</h2>
+                    <div class="spacer-12"></div>
+                    <div class="type-14 color-text-60 models-lineup-scroll-model-subtitle">
+                        690 sq. ft.
+                        <span>|</span>
+                        2 bedrooms
+                        <span>|</span>
+                        1 bath
+                    </div>
+                    <div class="models-lineup-scroll-model-elevation">
+                        <a href="/backyard/two-bedroom"><img loading="lazy" src="/assets/images/backyard/models/models-index-twobed/models-index-twobed-1000.webp" alt="Two bedroom" /></a>
+                    </div>
+                    <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
+                    <div class="type-30-light">
+                        $185,000
+                        <span class="type-14 color-text-40">&thinsp;plus installation</span>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <div class="models-lineup-scroll-model-actions">
+                        <a href="/backyard/two-bedroom" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/backyard/configure#bonewhite+twobed" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                    </div>
+                </div>
+                <div class="models-lineup-scroll-model">
+                    <div class="models-lineup-scroll-model-label type-18">One bedroom</div>
+                    <div class="spacer-12"></div>
+                    <h2 class="type-36">The one and only<br /> for everything.</h2>
+                    <div class="spacer-12"></div>
+                    <div class="type-14 color-text-60 models-lineup-scroll-model-subtitle">
+                        540 sq. ft.
+                        <span>|</span>
+                        1 bedroom
+                        <span>|</span>
+                        1 bath
+                    </div>
+                    <div class="models-lineup-scroll-model-elevation">
+                        <a href="/backyard/one-bedroom"><img loading="lazy" src="/assets/images/backyard/models/models-index-onebed/models-index-onebed-1000.webp" alt="One bedroom" /></a>
+                    </div>
+                    <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
+                    <div class="type-30-light">
+                        $165,000
+                        <span class="type-14 color-text-40">&thinsp;plus installation</span>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <div class="models-lineup-scroll-model-actions">
+                        <a href="/backyard/one-bedroom" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/backyard/configure#bonewhite+onebed" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                    </div>
+                </div>
+                <div class="models-lineup-scroll-model">
+                    <div class="models-lineup-scroll-model-label type-18">Studio</div>
+                    <div class="spacer-12"></div>
+                    <h2 class="type-36">Way small.<br /> Yay big.</h2>
+                    <div class="spacer-12"></div>
+                    <div class="type-14 color-text-60 models-lineup-scroll-model-subtitle">
+                        420 sq. ft.
+                        <span>|</span>
+                        1 bath
+                    </div>
+                    <div class="models-lineup-scroll-model-elevation">
+                        <a href="/backyard/studio"><img loading="lazy" src="/assets/images/backyard/models/models-index-studio/models-index-studio-1000.webp" alt="Studio" /></a>
+                    </div>
+                    <div class="type-21-light m-type-18-light color-text-40">Starting at</div>
+                    <div class="type-30-light">
+                        $147,000
+                        <span class="type-14 color-text-40">&thinsp;plus installation</span>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <div class="models-lineup-scroll-model-actions">
+                        <a href="/backyard/studio" class="button-rounded button-squared button-rounded-blue">Explore</a>
+                        <a href="/backyard/configure#bonewhite+studio" class="button-rounded button-squared button-rounded-grey type-regola-regular">Configure</a>
+                    </div>
+                </div>
+                <div class="models-lineup-scroll-model models-lineup-scroll-model-cant-decide">
+                    <div class="models-lineup-scroll-model-cant-decide-container">
+                        <img loading="lazy" src="/assets/images/backyard/models/models-lineup-scroll-model-cant-decide/models-lineup-scroll-model-cant-decide-1000.webp" width="324" height="454" alt="Can’t decide? We can help.">
+                        <h4 class="type-36 m-type-42 color-white">Can’t decide?<br /> We can help.</h4>
+                        <button class="button-rounded button-squared button-rounded-grey type-regola-regular" onclick="Contact.show()">Get in touch</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="spacer-72 m-spacer-24"></div>
+        <div class="page-section">
+            <div class="modern-grid page-section-container">
+                <div class="column-1"></div>
+                <div class="column-10">
+                    <a class="type-30 m-type-18 models-lineup-compare-link" href="/backyard/compare">
+                        Compare detailed specs
+                        <svg style="width: auto; height: 0.55em" width="33" height="22" viewBox="0 0 33 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22.1687 21.427L20.0935 19.3942L27.0812 12.4489H0.5V9.5692H27.0812L20.0512 2.58159L22.1263 0.548828L32.5865 11.0091L22.1687 21.427Z" fill="#0096F7"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="spacer-72"></div>
+    </div>
+
+    <div class="slide page-section models-lineup-collage-section">
+        <div class="page-section-container">
+            <div class="models-lineup-collage">
+                <h1 data-models-parallax="0.0,0.2" data-models-parallax-mobile="-0.025,0.025">
+                    Space that<br /> flexes with you.
+                </h1>
+
+                <img
+                    data-models-parallax="0.0,0.1"
+                    data-models-parallax-mobile="-0.05,0.1"
+                    src="/assets/images/backyard/models/models-index-collage-one/models-index-collage-one-2000.webp"
+                    width="935"
+                    height="623"
+                />
+
+                <div data-models-parallax="-0.25,0.05" data-models-parallax-mobile="0.0,0.05">
+                    <p class="mobile-hidden type-15 m-type-18-light">Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Backyard adapts to your life—no matter what life throws at you.</p>
+                    <img
+                        src="/assets/images/backyard/models/models-index-collage-two/models-index-collage-two-1000.webp"
+                        width="428"
+                        height="280"
+                    />
+                </div>
+
+                <p
+                    class="desktop-hidden type-15 m-type-18-light"
+                    data-models-parallax="-0.25,0.05"
+                    data-models-parallax-mobile="0.0,-0.015"
+                >
+                    Whether you need a quiet place to focus or a rental unit that creates an additional income stream, you never know what tomorrow might hold. Backyard adapts to your life—no matter what life throws at you.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="backyard-basement page-section">
+        <div class="page-section-container">
+            <div class="spacer-120 m-spacer-72"></div>
+            <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 m-column-6 doorway-item type-24-light m-type-18-light tablet-hidden" href="/backyard/faq">
+        <div class="doorway-item-foreground">
+            <div>Get answers.</div>
+            <nobr class="nobr">FAQ <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/doorway-faq-mobile/doorway-faq-mobile-1200.webp 768w, /assets/images/doorway/doorway-faq/doorway-faq-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+</div>
+
+            <div class="spacer-120 m-spacer-72"></div>
+            <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">DGM</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to DGM updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 DGM Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,179 @@
+    <div class="page-section">
+    <div class="page-section-container">
+
+<div class="spacer-150"></div>
+
+<div class="modern-grid multiunit-hero">
+    <div class="column-12 m-column-6">
+        <div class="multiunit-hero-title">
+            <div class="spacer-100 m-spacer-24"></div>
+            <img src="/assets/images/multiunit/logo-backyard.svg" width="288" height="39" alt="Backyard multiunit" />
+            <div class="spacer-64 m-spacer-32"></div>
+            <h1 class="type-96 m-type-48">
+                Quickly unlock<br class="mobile-hidden" />
+                the&nbsp;potential<br class="mobile-hidden" />
+                of&nbsp;your parcel.
+            </h1>
+            <div class="spacer-64"></div>
+            <div class="m-spacer-24"></div>
+        </div>
+
+        <img
+            width="1333"
+            height="1666"
+            class="multiunit-hero-photo"
+            src="/assets/images/multiunit/hero/hero-2880.webp"
+            alt="Quickly unlock the potential of your parcel."
+        />
+    </div>
+</div>
+
+<div class="spacer-150 m-spacer-100"></div>
+
+<div class="modern-grid multiunit-heading">
+    <div class="column-1"></div>
+    <div class="column-10">
+        <h2 class="type-72 m-type-36">From a community of&nbsp;homes—</h2>
+    </div>
+</div>
+
+<div class="spacer-64 m-spacer-32"></div>
+
+<div class="modern-grid multiunit-text">
+    <div class="column-4 m-column-0"></div>
+    <div class="column-4 m-column-6 type-18 m-type-15">
+        <p>Use Backyard two bedroom, one bedroom, and studio units as building blocks to create stunning multifamily communities that blend harmoniously into existing residential neighborhoods.</p>
+        <div class="spacer-24"></div>
+        <p>Built from premium, low-maintenance materials and assembled offsite in a controlled factory environment, Backyard Multiunit promises fewer construction delays, a faster path to revenue, and less upkeep in the future—all coupled with Backyard's elegant, livable design.</p>
+    </div>
+</div>
+
+<div class="spacer-120 m-spacer-64"></div>
+
+<div class="modern-grid multiunit-community">
+    <div class="column-1 m-column-0"></div>
+    <div class="column-10 m-column-6">
+        <img src="/assets/images/multiunit/community/community-2880.webp" alt="Multiunit rural community." width="1106" height="956" />
+    </div>
+</div>
+
+<div class="spacer-100 m-spacer-64"></div>
+
+<div class="modern-grid multiunit-heading">
+    <div class="column-1"></div>
+    <div class="column-10">
+        <h2 class="type-72 m-type-36">—to the ultimate retreat.</h2>
+    </div>
+</div>
+
+<div class="spacer-64 m-spacer-32"></div>
+
+<div class="modern-grid multiunit-text">
+    <div class="column-4 m-column-0"></div>
+    <div class="column-4 m-column-6 type-18 m-type-15">
+        <p>Backyard's durable-yet-sumptuous materials, elegant architecture and guest-friendly design are perfect for creating luxurious and unforgettable hospitality experiences. Generous windows and doors and integrated decks allow guests to experience the best of outdoors from a place that feels just like home.</p>
+    </div>
+</div>
+
+<div class="spacer-120 m-spacer-64"></div>
+
+<div class="modern-grid multiunit-hr">
+    <div class="column-12">
+        <hr>
+    </div>
+</div>
+
+<div class="modern-grid multiunit-form">
+    <div class="column-1 m-column-0"></div>
+    <div class="column-5 m-column-6">
+        <div class="spacer-150 m-spacer-100"></div>
+        <h3 class="type-60 m-type-36">Want to build<br> something great?<br> Get in touch.</h3>
+        <div class="spacer-24"></div>
+        <p class="type-24 m-type-15">Whether you’re looking for&nbsp;land or&nbsp;ready to&nbsp;build, we’d love to&nbsp;help.</p>
+    </div>
+    <div class="column-5 m-column-6">
+        <div class="spacer-150 m-spacer-64"></div>
+        <div id="get-in-touch-form"></div>
+    </div>
+</div>
+
+<div class="spacer-120"></div>
+<div class="spacer-120"></div>
+
+<div class="footer-nav footer-nav-variant-default">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">DGM</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to DGM updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 DGM Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+
+    </div>
+</div>
+

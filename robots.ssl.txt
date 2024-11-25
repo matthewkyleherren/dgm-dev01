@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.samara.com/sitemap.xml

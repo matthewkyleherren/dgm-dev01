@@ -1,0 +1,308 @@
+    
+<div class="page-section">
+    <div class="page-section-container">
+        <div class="spacer-32 m-spacer-0"></div>
+        <div class="spacer-150 m-spacer-100"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-10 m-column-6">
+                <h1 class="type-120 m-type-60 showroom-title">
+                    Showrooms
+                    <div class="showroom-jump-links type-18 m-type-12">
+                        <a onclick="Showroom.jumpTo('redwood-city')">Redwood City</a>
+                        <a onclick="Showroom.jumpTo('thousand-oaks')">Thousand Oaks</a>
+                    </div>
+                </h1>
+                <div class="spacer-50 m-spacer-32"></div>
+                <p class="type-18 m-type-15 color-text-60">Discover what makes Backyard&nbsp;better.</p>
+            </div>
+        </div>
+
+        <div class="spacer-64 m-spacer-50"></div>
+    </div>
+</div>
+
+<div class="modern-slideshow" data-tooltip="true">
+    <img class="rounded-6 drop-shadow" width="4410" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-01/hero-01-1100.jpg 768w, /assets/images/showroom/hero-01/hero-01-2880.jpg" alt="DGM showroom"  />
+    <img class="rounded-6 drop-shadow" width="2243" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-02/hero-02-1100.jpg 768w, /assets/images/showroom/hero-02/hero-02-2880.jpg" alt="DGM showroom" />
+    <img class="rounded-6 drop-shadow" width="1958" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-03/hero-03-1100.jpg 768w, /assets/images/showroom/hero-03/hero-03-2880.jpg" alt="DGM showroom" />
+    <img class="rounded-6 drop-shadow" width="2397" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-04/hero-04-1100.jpg 768w, /assets/images/showroom/hero-04/hero-04-2880.jpg" alt="DGM showroom" />
+    <img class="rounded-6 drop-shadow" width="1957" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-07/hero-07-1100.jpg 768w, /assets/images/showroom/hero-07/hero-07-2880.jpg" alt="DGM showroom" />
+    <img class="rounded-6 drop-shadow" width="1961" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-08/hero-08-1100.jpg 768w, /assets/images/showroom/hero-08/hero-08-2880.jpg" alt="DGM showroom" />
+    <img class="rounded-6 drop-shadow" width="1953" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-09/hero-09-1100.jpg 768w, /assets/images/showroom/hero-09/hero-09-2880.jpg" alt="DGM showroom" />
+     <img class="rounded-6 drop-shadow" width="4410" height="2940" loading="lazy"
+        srcset="/assets/images/showroom/hero-06/hero-06-1100.jpg 768w, /assets/images/showroom/hero-06/hero-06-2880.jpg" alt="DGM showroom" />
+</div>
+
+<div class="page-section">
+    <div class="page-section-container">
+        <div class="spacer-120 m-spacer-50"></div>
+
+            <div id="redwood-city" class="modern-grid">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6">
+            <h2 class="type-60 m-type-36 showroom-title-secondary">Redwood City</h2>
+        </div>
+    </div>
+
+    <div class="spacer-16"></div>
+
+<div class="modern-grid">
+    <div class="column-1 m-column-0"></div>
+    <div class="column-10 m-column-6">
+        <hr class="divider" />
+    </div>
+    <div class="column-1 m-column-0"></div>
+</div>
+
+<div class="spacer-50 m-spacer-32"></div>
+
+<div class="modern-grid">
+    <div class="column-1 m-column-0"></div>
+    <div class="column-4 m-column-6">
+        <div class="showroom-address type-24 m-type-18">
+            2840 Bay Road<br>
+            Redwood City, CA<br>
+            94063
+            <div class="spacer-8"></div>
+            <a href="tel:6502606503">(650) 260-6503</a>
+        </div>
+        <div class="mobile-hidden">
+            <div class="spacer-32 m-spacer-16"></div>
+            <a class="button-rounded button-rounded-blue type-14 m-type-12" href="/showrooms/redwood-city/visit">Schedule a tour</a>
+        </div>
+        <div class="spacer-64 m-spacer-36"></div>
+        <div class="type-24 m-type-18">Hours</div>
+        <div class="spacer-16"></div>
+        <hr class="divider" />
+        <div class="spacer-32"></div>
+        <div class="showroom-hours type-18 m-type-15">
+            <div>
+                <div class="showroom-hours-days">Tuesday to Thursday</div>
+                <div class="spacer-8"></div>
+                <div class="showroom-hours-hours">2 p.m. – 5:45 p.m.</div>
+                <div class="showroom-hours-note color-text-40">Scheduled tours only</div>
+            </div>
+            <div>
+                <div class="showroom-hours-days">Saturday</div>
+                <div class="spacer-8"></div>
+                <div class="showroom-hours-hours">10 a.m. – 2:30 p.m.</div>
+                <div class="showroom-hours-note color-text-40">Scheduled tours only</div>
+            </div>
+        </div>
+        <div class="spacer-32"></div>
+        <hr class="divider" />
+        <div class="desktop-hidden">
+            <div class="spacer-32"></div>
+            <a
+                class="button-rounded button-rounded-blue type-12"
+                href="/showrooms/redwood-city/visit"
+            >
+                Schedule a tour
+            </a>
+        </div>
+        <div class="m-spacer-64"></div>
+    </div>
+    <div class="column-1 m-column-0"></div>
+    <div class="column-5 m-column-6 showroom-photo">
+        <img
+            src="/assets/images/showroom/redwood-city/redwood-city-1080.webp"
+            alt="Redwood City showroom entrance"
+            width="541"
+            height="698"
+            loading="lazy"
+        />
+    </div>
+</div>
+
+
+<div class="showroom-events" data-showroom="redwood-city" data-number-of-events="0">
+    <div class="spacer-100 m-spacer-72"></div>
+    <h1 class="type-18 m-type-15 color-text-60">Upcoming in Redwood City</h1>
+    <ul>
+    </ul>
+</div>
+
+<div class="spacer-64 m-spacer-32"></div>
+
+
+
+            <div id="thousand-oaks" class="modern-grid">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6">
+            <h2 class="type-60 m-type-36 showroom-title-secondary">
+                Thousand Oaks
+                <span class="type-24 m-type-18 color-text-40">Pop-up</span>
+            </h2>
+        </div>
+    </div>
+
+<div class="spacer-16"></div>
+<div class="modern-grid">
+    <div class="column-1 m-column-0"></div>
+    <div class="column-10 m-column-6">
+        <hr class="divider" />
+    </div>
+    <div class="column-1 m-column-0"></div>
+</div>
+<div class="spacer-50 m-spacer-32"></div>
+
+<div class="modern-grid showroom-thousand-oaks">
+    <div class="column-1 m-column-0"></div>
+
+    <div class="column-5 m-column-6 showroom-photo">
+        <img
+            src="/assets/images/showroom/thousand-oaks/thousand-oaks-1080.webp"
+            alt="Thousand Oaks pop-up showroom"
+            width="541"
+            height="680"
+            loading="lazy"
+        />
+    </div>
+
+    <div class="column-1 m-column-0"></div>
+
+    <div class="column-4 m-column-6 showroom-description">
+        <div class="type-18 m-type-15 color-text-40">
+            Temporary pop-up location
+        </div>
+
+        <div class="spacer-8"></div>
+
+        <div class="showroom-address type-24 m-type-18">
+            112 Lakeview Canyon Rd<br/>
+            Thousand Oaks, CA<br/>
+            91362
+        </div>
+
+        <div class="spacer-32"></div>
+        <div class="spacer-8"></div>
+        <hr class="divider" />
+        <div class="spacer-32"></div>
+
+        <div class="type-18 m-type-15 color-text-40">
+            Open by appointment only
+        </div>
+
+        <div class="spacer-32 m-spacer-16"></div>
+
+        <a
+            class="button-rounded button-rounded-blue type-14 m-type-12"
+            onclick="Contact.show({ page: 'showroom' });">
+            Request a tour
+        </a>
+
+        <div class="m-spacer-64"></div>
+    </div>
+</div>
+
+
+<div class="showroom-events" data-showroom="thousand-oaks" data-number-of-events="0">
+    <div class="spacer-100 m-spacer-72"></div>
+    <h1 class="type-18 m-type-15 color-text-60">Upcoming in Thousand Oaks</h1>
+    <ul>
+    </ul>
+</div>
+
+<div class="spacer-64 m-spacer-32"></div>
+
+
+
+        <div class="spacer-32 m-spacer-0"></div>
+
+        <div class="modern-grid showroom-footer">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-10 m-column-6">
+                <h4 class="type-48 m-type-36">Not near a showroom?</h4>
+                <h4 class="type-48 m-type-36 color-text-40">We’re available via email. Or&nbsp;give us a&nbsp;call.</h4>
+                <div class="spacer-32 m-spacer-0"></div>
+                <a class="type-48 m-type-36 showroom-footer-link" onclick="Contact.show({ variant: 'default' })">Get in touch <img src="/assets/images/icons/arrow-right-blue.svg" alt="→" /></a>
+            </div>
+        </div>
+
+        <div class="spacer-120"></div>
+
+        <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">DGM</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to DGM updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 DGM Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</div>
+

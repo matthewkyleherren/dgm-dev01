@@ -1,0 +1,249 @@
+    <div class="page-section">
+    <div class="page-section-container how-it-works">
+        <div style="width: 90%; margin-left: 5%">
+            <h1 class="type-60 m-type-42 type-center">As easy as it&nbsp;gets.</h1>
+            <h1 class="type-60 m-type-42 type-center subtitle">From configuration to completion in as few as 7&nbsp;months.</h1>
+        </div>
+
+        <ul class="timeline">
+            <li class="right start">
+                <h2>Design yours</h2>
+                <p>Start by making Backyard yours. Choose your layout, colors, windows, doors, decks, interior, roof, and solar.</p>
+                <p>After you request a proposal, we kick off our remote property analysis.</p>
+                <div class="line"></div>
+                <div class="bullet"></div>
+            </li>
+            <li class="left site-visit">
+                <h2>Site visit</h2>
+                <p>We’ll visit your property to prepare an installation estimate, ensuring your Backyard fits and noting any obstacles.</p>
+                <time>TWO WEEKS LATER</time>
+                <div class="line"></div>
+                <div class="bullet"></div>
+            </li>
+            <li class="right">
+                <h2>Sign off</h2>
+                <p>We'll send you a site plan, installation estimate, and solar proposal to review and approve.</p>
+                <time>ONE WEEK LATER</time>
+                <div class="line"></div>
+                <div class="bullet"></div>
+            </li>
+            <li class="center">
+                <h2>Permit</h2>
+                <p>We’ll prepare and submit  a formal permit package to your local planning department.</p>
+                <time>ONE WEEK LATER</time>
+                <div class="bullet"></div>
+                <svg width="53" height="439" viewBox="0 0 53 439" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M50 436C50 436 50 281.9 50 219.5C50 192.976 46.5 175 41.4424 163.504M50 3.5V116C50 138.431 46.5 151 41.4424 163.504M41.4424 163.504C29.1216 135.5 3 144.927 3 162C3 179.073 29.5 188 41.4424 163.504Z" stroke="black" stroke-width="6" stroke-linecap="round"/>
+                </svg>
+            </li>
+            <li class="left site-prep">
+                <h2>Site prep</h2>
+                <p>We’ll get your yard ready by installing the foundation and utility connections.</p>
+                <time>APPROX. FIVE MONTHS LATER</time>
+                <div class="line"></div>
+                <div class="bullet"></div>
+                <img src="/assets/images/backyard/how-it-works-site-prep/how-it-works-site-prep-1440.webp" alt="Site preparation" />
+            </li>
+            <li class="right transport">
+                <h2>Transport</h2>
+                <p>Your Backyard begins its journey from our factory to your home.</p>
+                <time>TWO WEEKS LATER</time>
+                <div class="line"></div>
+                <div class="bullet"></div>
+                <img src="/assets/images/backyard/how-it-works-truck/how-it-works-truck-1440.webp" alt="Backyard on a truck" />
+            </li>
+            <li class="left crane-in">
+                <h2>Crane in</h2>
+                <p>In just a few hours, we crane Backyard onto its foundation. It's quite the scene.</p>
+                <time>A FEW DAYS LATER</time>
+                <div class="line"></div>
+                <div class="bullet"></div>
+                <img src="/assets/images/backyard/how-it-works-crane-in/how-it-works-crane-in-1440.webp" alt="Backyard craning in" />
+            </li>
+            <li class="right">
+                <h2>Wrap up</h2>
+                <p>We connect Backyard to the grid, hook up the solar system, and thoroughly inspect every inch of Backyard to ensure it's good to go.</p>
+                <time>ONE DAY LATER</time>
+                <div class="line"></div>
+                <div class="bullet"></div>
+            </li>
+            <li class="final">
+                <h2>Welcome</h2>
+                <p>You’re ready for your housewarming party.</p>
+                <time>THREE WEEKS LATER</time>
+                <div class="bullet"></div>
+            </li>
+        </ul>
+
+        <div
+            class="slide visible party"
+            data-invert="true"
+        >
+        </div>
+
+        <div class="spacer-100"></div>
+        <div class="spacer-150"></div>
+        <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 m-column-6 doorway-item type-24-light m-type-18-light tablet-hidden" href="/backyard/faq">
+        <div class="doorway-item-foreground">
+            <div>Get answers.</div>
+            <nobr class="nobr">FAQ <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/doorway-faq-mobile/doorway-faq-mobile-1200.webp 768w, /assets/images/doorway/doorway-faq/doorway-faq-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+</div>
+
+        <div class="spacer-120 m-spacer-72"></div>
+        <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">DGM</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to DGM updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 DGM Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</div>
+

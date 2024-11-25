@@ -1,0 +1,935 @@
+    <article>
+    <div class="spacer-150 m-spacer-120"></div>
+<div class="spacer-150 l-spacer-32 m-spacer-0"></div>
+
+<div class="modern-grid">
+    <div class="column-1 l-column-0 m-column-0"></div>
+    <div class="column-10 l-column-12 m-column-6">
+        <h1 class="type-120 m-type-72"><span class="alt">Backyard</span><br class="desktop-hidden" /> XL 10</h1>
+        <div class="spacer-36"></div>
+        <div class="backyard-models-header-content">
+            <div class="backyard-models-header-content-subtitle">
+                <p class="type-24-light l-type-21-light">spicy, secret ingredient, 950&nbsp;square&nbsp;feet.</p>
+                <p class="type-24-light l-type-21-light color-text-60">Starting at $267,000 plus&nbsp;installation.</p>
+            </div>
+            <div class="backyard-models-navigation type-15 m-type-12">
+    <a class="button-inner-navigation" href="#floor-plan">Floor plan</a>
+    <a class="button-inner-navigation" href="#image-gallery">Image gallery</a>
+
+    <a class="button-inner-navigation" href="#tech-specs">Tech specs</a>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div class="spacer-150 l-spacer-64 m-spacer-64"></div>
+
+<div class="modern-grid m-modern-grid-full">
+    <div class="column-12 m-column-6">
+        <img
+            srcset="/assets/images/backyard/models/hero-xl-10-vertical/hero-xl-10-vertical-1400.webp 768w, /assets/images/backyard/models/hero-xl-10/hero-xl-10-3000.webp"
+            width="1330"
+            height="750"
+            class="rounded-6 m-rounded-0 full-width backyard-models-header-image"
+        >
+    </div>
+</div>
+
+
+    <div class="backyard-models-intro">
+    <div class="spacer-72 m-spacer-32"></div>
+    <div class="backyard-models-intro-container">
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 m-column-6 backyard-models-intro-text" data-models-parallax="0.0,0.2">
+                A big upgrade. Backyard XL 10 boasts roomier bedrooms, en suite and shared bathrooms, and an upsized kitchen and living area. No compromises, just smart space.
+            </div>
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 m-column-6">
+                <img
+                    srcset="
+                        /assets/images/backyard/models/intro-xl-10-mobile/intro-xl-10-mobile-800.webp 768w,
+                        /assets/images/backyard/models/intro-xl-10/intro-xl-10-1200.webp
+                    "
+                    width="540"
+                    height="720"
+                    class="full-width"
+                    loading="lazy"
+                />
+            </div>
+        </div>
+    </div>
+    <div class="spacer-100 m-spacer-50"></div>
+</div>
+
+
+    <div class="backyard-models-floorplan" id="floor-plan">
+    <div class="spacer-150 m-spacer-64"></div>
+    <div class="modern-grid">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-3">
+            <div class="backyard-models-floorplan-dimensions">
+                <div class="backyard-models-floorplan-dimensions-image">
+                    <img
+                        src="/assets/images/backyard/models/xl-10-floorplan-horizontal/xl-10-floorplan-horizontal-2000.webp"
+                        class="mobile-hidden"
+                        style="transform: scale(103.5%) translateX(1.5%) translateY(-1.5%)"
+                        loading="lazy"
+                    />
+                    <img
+                        src="/assets/images/backyard/models/xl-10-floorplan-vertical/xl-10-floorplan-vertical-2000.webp"
+                        class="desktop-hidden"
+                        style="transform: scale(103.5%) translateX(0.5%) translateY(1.5%)"
+                        loading="lazy"
+                    />
+                </div>
+                <div class="backyard-models-dimension backyard-models-dimension-horizontal">
+                    <div class="type-14 m-type-12 color-text-60 mono-nums mobile-hidden">38'</div>
+                    <div class="type-14 m-type-12 color-text-60 mono-nums desktop-hidden">25'</div>
+                    <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+                    <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+                </div>
+                <div class="backyard-models-dimension backyard-models-dimension-vertical">
+                    <div class="type-14 m-type-12 color-text-60 mono-nums mobile-hidden">25'</div>
+                    <div class="type-14 m-type-12 color-text-60 mono-nums desktop-hidden">38'</div>
+                    <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+                    <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-150 m-spacer-80"></div>
+    <div class="modern-grid">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-2 l-column-3 m-column-3 type-15 m-type-14 color-text-60">
+            Square footage:<br />950 gross sq. ft.
+        </div>
+        <div class="column-2 l-column-3 m-column-3 type-15 m-type-14 color-text-60">
+            Space requirement:<br />35' × 48'
+        </div>
+        <div class="mobile-hidden column-4 l-column-3 m-column-3 type-15 color-text-60 backyard-models-floorplan-download">
+            Dimensioned plans:<br />
+            <a href="/assets/documents/Backyard%20Configurations%20December%202023.pdf" target="_blank">
+                Download catalog&nbsp;(PDF)&nbsp;<img src="/assets/images/icons/download-blue.svg" width="15" height="15" alt="Download" loading="lazy" />
+            </a>
+        </div>
+        <div class="desktop-hidden m-column-6 type-15 m-type-14 color-text-60 backyard-models-floorplan-download">
+            <div class="spacer-24"></div>
+            <a href="/assets/documents/Backyard%20Configurations%20December%202023.pdf" target="_blank">
+                Dimensioned plans&nbsp;(PDF)&nbsp;<img src="/assets/images/icons/download-blue.svg" width="15" height="15" alt="Download" loading="lazy" />
+            </a>
+        </div>
+    </div>
+    <div class="spacer-50 m-spacer-50"></div>
+</div>
+
+
+    <div class="backyard-models-interior" id="image-gallery">
+    <img
+        srcset="
+            /assets/images/backyard/models/interior-hero-xl-10-portrait/interior-hero-xl-10-portrait-1400.webp 768w,
+            /assets/images/backyard/models/interior-hero-xl-10/interior-hero-xl-10-3000.webp
+        "
+        width="1440"
+        height="880"
+        class="full-width"
+    />
+    <h1>
+        <div class="spacer-100 m-spacer-36"></div>
+        Big. Like your<br /> ambitions.
+    </h1>
+</div>
+
+<div class="interior-carousel interior-carousel-white">
+    <div class="spacer-120 m-spacer-24"></div>
+    <div class="interior-carousel-cards">
+            <div class="interior-carousel-cards-card">
+                <div class="spacer-8"></div>
+                <div class="interior-carousel-cards-card-images">
+                    <img
+                        srcset="
+                            /assets/images/backyard/models/interior-carousel-xl-10-one/interior-carousel-xl-10-one-1125.jpg 768w,
+                            /assets/images/backyard/models/interior-carousel-xl-10-one/interior-carousel-xl-10-one-2000.jpg
+                        "
+                    />
+                </div>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p class="type-15 m-type-14">Perfect for hanging out or hosting. Big windows and double doors let the outside in. Smart storage keeps things tidy.</p>
+            </div>
+            <div class="interior-carousel-cards-card">
+                <div class="spacer-8"></div>
+                <div class="interior-carousel-cards-card-images">
+                    <img
+                        srcset="
+                            /assets/images/backyard/models/interior-carousel-xl-10-two/interior-carousel-xl-10-two-1125.jpg 768w,
+                            /assets/images/backyard/models/interior-carousel-xl-10-two/interior-carousel-xl-10-two-2000.jpg
+                        "
+                    />
+                </div>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p class="type-15 m-type-14">Plenty of counter space, a built-in pantry, and full-size appliances mean you're cooking with gas (or rather, next-gen induction). </p>
+            </div>
+            <div class="interior-carousel-cards-card">
+                <div class="spacer-8"></div>
+                <div class="interior-carousel-cards-card-images">
+                    <img
+                        srcset="
+                            /assets/images/backyard/models/interior-carousel-xl-10-three/interior-carousel-xl-10-three-1125.jpg 768w,
+                            /assets/images/backyard/models/interior-carousel-xl-10-three/interior-carousel-xl-10-three-2000.jpg
+                        "
+                    />
+                </div>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p class="type-15 m-type-14">The primary bedroom has room for a king, an en suite bath, and built-in storage. No cramped quarters here, just space to make your own.</p>
+            </div>
+            <div class="interior-carousel-cards-card">
+                <div class="spacer-8"></div>
+                <div class="interior-carousel-cards-card-images">
+                    <img
+                        srcset="
+                            /assets/images/backyard/models/interior-carousel-xl-10-four/interior-carousel-xl-10-four-1125.jpg 768w,
+                            /assets/images/backyard/models/interior-carousel-xl-10-four/interior-carousel-xl-10-four-2000.jpg
+                        "
+                    />
+                </div>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p class="type-15 m-type-14">Between the roomy walk-in shower and the vanity that's loaded with storage, the en suite bathroom gives you plenty of space to primp in peace.</p>
+            </div>
+            <div class="interior-carousel-cards-card">
+                <div class="spacer-8"></div>
+                <div class="interior-carousel-cards-card-images">
+                    <img
+                        srcset="
+                            /assets/images/backyard/models/interior-carousel-xl-10-five/interior-carousel-xl-10-five-1125.jpg 768w,
+                            /assets/images/backyard/models/interior-carousel-xl-10-five/interior-carousel-xl-10-five-2000.jpg
+                        "
+                    />
+                </div>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p class="type-15 m-type-14">The secondary bedroom fits a queen-size bed and comes with built-in storage to match the primary. It’s a space designed to adapt: for kids, guests, or as an office.</p>
+            </div>
+            <div class="interior-carousel-cards-card">
+                <div class="spacer-8"></div>
+                <div class="interior-carousel-cards-card-images">
+                    <img
+                        srcset="
+                            /assets/images/backyard/models/interior-carousel-xl-seven/interior-carousel-xl-seven-1125.jpg 768w,
+                            /assets/images/backyard/models/interior-carousel-xl-seven/interior-carousel-xl-seven-2000.jpg
+                        "
+                    />
+                </div>
+                <div class="spacer-24 m-spacer-16"></div>
+                <p class="type-15 m-type-14">The shared bathroom has a full tub with room to soak, plus a complete laundry station right next door.</p>
+            </div>
+    </div>
+    <div class="interior-carousel-paging-indicator desktop-hidden">
+        <div class="spacer-36"></div>
+        <ul
+    class="paging-indicator"
+    data-scroll-element-selector='.interior-carousel-cards'
+    
+>
+        <li class='paging-indicator-current'></li>
+        <li ></li>
+        <li ></li>
+        <li ></li>
+        <li ></li>
+        <li ></li>
+</ul>
+
+    </div>
+    <div class="spacer-120 m-spacer-72"></div>
+</div>
+
+
+    <div class="backyard-models-collage">
+    <div class="backyard-models-collage-text backyard-models-collage-text-xl-10">
+        From the chef-worthy kitchen to the supersized bedrooms, Backyard XL 10 gives you room to grow, not outgrow.
+    </div>
+    <img
+        src="/assets/images/backyard/models/collage-xl-10-one/collage-xl-10-one-1400.webp"
+        class="backyard-models-collage-image-one-xl-10"
+        loading="lazy"
+            data-models-parallax="-0.4,0.0"
+
+            data-models-parallax-mobile="-0.25,0.0"
+    />
+    <img
+        src="/assets/images/backyard/models/collage-xl-10-two/collage-xl-10-two-1400.webp"
+        class="backyard-models-collage-image-two-xl-10"
+        loading="lazy"
+            data-models-parallax="-0.2,0.3"
+
+            data-models-parallax-mobile="-0.1,0.0"
+    />
+    <img
+        src="/assets/images/backyard/models/collage-xl-10-three/collage-xl-10-three-1400.webp"
+        class="backyard-models-collage-image-three-xl-10"
+        loading="lazy"
+            data-models-parallax="0.0,0.1"
+
+            data-models-parallax-mobile="0.0,0.1"
+    />
+</div>
+
+
+    <div class="modern-grid backyard-models-doorway-container">
+    <div class="column-1 l-column-0"></div>
+    <div class="column-10 l-column-12">
+        <div class="spacer-64 m-spacer-36"></div>
+        <h3 class="type-42 m-type-21-light">Explore other Backyard models:</h3>
+        <div class="spacer-50 m-spacer-24"></div>
+        <div class="backyard-models-doorway">
+            
+
+
+            
+
+    <a class="doorway-item doorway-item-inverted type-24-light m-type-18-light" href="one-bedroom">
+        <div class="doorway-item-foreground">
+            <div>Our classic all-rounder.</div>
+            One bedroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            />
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="
+                /assets/images/backyard/models/doorway-onebed-alt/doorway-onebed-alt-1200.webp 768w,
+                /assets/images/backyard/models/doorway-onebed/doorway-onebed-720.webp
+            "
+            alt="Our classic all-rounder."
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+            
+
+    <a class="doorway-item doorway-item-inverted type-24-light m-type-18-light" href="two-bedroom">
+        <div class="doorway-item-foreground">
+            <div>The ultimate flex.</div>
+            Two bedroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            />
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="
+                /assets/images/backyard/models/doorway-twobed-alt/doorway-twobed-alt-1200.webp 768w,
+                /assets/images/backyard/models/doorway-twobed/doorway-twobed-720.webp
+            "
+            alt="The ultimate flex."
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+            
+
+    <a class="doorway-item doorway-item-inverted type-24-light m-type-18-light" href="xl-8">
+        <div class="doorway-item-foreground">
+            <div>More to love.</div>
+            Backyard XL 8 <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            />
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="
+                /assets/images/backyard/models/doorway-xl-alt/doorway-xl-alt-1200.webp 768w,
+                /assets/images/backyard/models/doorway-xl/doorway-xl-720.webp
+            "
+            alt="More to love."
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+
+            
+
+
+        </div>
+    </div>
+</div>
+
+    <div class="backyard-models-specs">
+    <div class="spacer-150 m-spacer-100"></div>
+    <div class="spacer-150 l-spacer-0 m-spacer-0"></div>
+    <div class="modern-grid m-modern-grid-full">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6">
+            <img
+                src="/assets/images/backyard/models/specs-xl-10/specs-xl-10-2880.webp"
+                width="1106"
+                height="622"
+                class="full-width rounded-6 m-rounded-0"
+                loading="lazy"
+            />
+        </div>
+    </div>
+    <div class="spacer-120 m-spacer-50"></div>
+    <div class="modern-grid" id="tech-specs">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6">
+            <h4 class="type-72 m-type-42">Tech specs</h4>
+        </div>
+    </div>
+    <div class="spacer-80 m-spacer-50"></div>
+    <div class="modern-grid">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6 backyard-models-specs-table">
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Starting at</div>
+        <div class="spacer-16 m-spacer-8"></div>
+        <div class="type-18">$267,000</div>
+        <div class="spacer-4"></div>
+        <div class="type-14 color-text-40">plus installation</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Square footage</div>
+        <div class="spacer-16 m-spacer-8"></div>
+        <div class="type-18">950 gross sq. ft.</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Unit dimensions</div>
+        <div class="spacer-4"></div>
+        <div class="type-14 color-text-40">Excluding stairs and decks</div>
+        <div class="spacer-16 m-spacer-8"></div>
+        <div class="type-18">25' W × 38' D</div>
+        <div class="spacer-4"></div>
+        <div class="type-14 color-text-40">Height: 13'5½" without foundation</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Space requirement</div>
+        <div class="spacer-16 m-spacer-8"></div>
+        <div class="type-18">35' × 48'</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="spacer-50 m-spacer-0"></div>
+    <div class="modern-grid backyard-models-specs-table-collapsible">
+        <input type="checkbox" class="desktop-hidden">
+        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10">
+            <hr class="desktop-hidden" />
+            <h5 class="type-42">Exterior</h5>
+            <div class="spacer-36"></div>
+        </div>
+    </div>
+    <div class="modern-grid backyard-models-specs-table-collapsible-content">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6 backyard-models-specs-table">
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Colors</div>
+        <div class="spacer-16 m-spacer-8"></div>
+        <div class="specs-content-colors">
+            <div class="specs-content-colors-bone-white">
+                <div class="type-12">Bone white</div>
+            </div>
+            <div class="specs-content-colors-driftwood">
+                <div class="type-12">Driftwood</div>
+            </div>
+            <div class="specs-content-colors-parchment">
+                <div class="type-12">Parchment</div>
+            </div>
+            <div class="specs-content-colors-evergreen">
+                <div class="type-12">Evergreen</div>
+            </div>
+            <div class="specs-content-colors-dark-bronze">
+                <div class="type-12">Dark bronze</div>
+            </div>
+        </div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Roof colors</div>
+        <div class="spacer-16 m-spacer-8"></div>
+        <div class="specs-content-colors">
+            <div class="specs-content-colors-dark-bronze">
+                <div class="type-12">Dark bronze</div>
+            </div>
+            <div class="specs-content-colors-metallic-silver">
+                <div class="type-12">Metallic silver</div>
+            </div>
+        </div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Structure</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Precision-engineered light-gauge steel frame</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Roof</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Galvalume®-coated steel standing seam roof with 3:12 pitch</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Cladding</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Vertical 7" fiber cement panels with V-groove</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Upgrade to horizontal 24" smooth-coated steel insulated panels</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Windows & doors</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15"><span class="prop-nums">3'&thinsp;×&thinsp;6'8"</span> glass entry door</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Four <span class="prop-nums">3'&thinsp;×&thinsp;5'</span> casement windows</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Five <span class="prop-nums">3'&thinsp;×&thinsp;3'</span> casement windows</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Upgrade to double doors with decks</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Canopy</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Base color-matched aluminum entry canopy</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Additional canopies included with double door upgrades</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Deck</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Clear-stained Western red cedar</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="spacer-50 m-spacer-0"></div>
+    <div class="modern-grid backyard-models-specs-table-collapsible">
+        <input type="checkbox" class="desktop-hidden">
+        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10">
+            <hr class="desktop-hidden" />
+            <h5 class="type-42">Interior</h5>
+            <div class="spacer-36"></div>
+        </div>
+    </div>
+    <div class="modern-grid backyard-models-specs-table-collapsible-content">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6 backyard-models-specs-table">
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Ceiling height</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">7'10⅞" — 11"</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Flooring</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Waterproof stone composite flooring in oak finish</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Lighting</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Dimmable 2700k indirect LED ceiling fixtures</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Kitchen</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Custom base cabinetry with synthetic stone countertop and matching backsplash on cooktop wall, plus built-in pantry with electrical outlets</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Closed wall cabinetry with integrated LED task lighting</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Upgrade to 39" × 60" kitchen island with optional wine and beverage cooler</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">30" wide four burner induction cooktop</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Range hood with exhaust and built-in storage</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">30" wide single wall oven</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">29" wide stainless steel sink with polished chrome pull-down single-handle faucet</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">In-sink garbage disposal</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">24" wide panelized dishwasher</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">33" wide french door refrigerator with bottom freezer and 18 cubic foot capacity</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Interior doors</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Bathroom: solid-core pocket door</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">En suite bathroom: solid-core pocket door</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Primary bedroom: solid-core swing door with full-length mirror</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Secondary bedroom: solid-core swing door</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Bathroom</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">32" wide vanity with synthetic stone countertop and built-in storage</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">24" × 36" recessed, mirrored medicine cabinet</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Vitreous china sink with polished chrome single-handle faucet</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">32" × 60" cast iron alcove tub with synthetic stone surround, 24" wide shelf and curtain rod</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Hand shower and single-handle valve in polished chrome</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Skirted low-flow toilet with left-hand polished chrome lever</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Polished chrome towel hooks and toilet paper holder</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Storage</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Shared bath/laundry closet with adjustable shelves and broom storage</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Two custom wardrobes with hanging rod, open shelving, and drawers</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">7'6" × 2' hallway closet with hanging rod and open shelving</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">En suite bathroom</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">54" wide vanity with synthetic stone countertop and built-in storage</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Vitreous china sink with polished chrome single-handle faucet</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">40" × 30" recessed, mirrored medicine cabinet</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">34" × 60" cast iron walk-in shower with synthetic stone surround, curb, concealed drain, 24" wide shelf and sliding glass doors</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Hand shower and single-handle valve in polished chrome</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Skirted low-flow toilet with left-hand polished chrome lever</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Polished chrome towel hooks and toilet paper holder</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Laundry</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Stacked 4.5 cubic foot capacity washer with 12 wash programs and vented 7.4 cubic foot capacity dryer</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">48" wide laundry counter with integrated LED task lighting and base and wall cabinetry</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="spacer-50 m-spacer-0"></div>
+    <div class="modern-grid backyard-models-specs-table-collapsible">
+        <input type="checkbox" class="desktop-hidden">
+        <img class="desktop-hidden" src="/assets/images/backyard/faq-up.svg" />
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10">
+            <hr class="desktop-hidden" />
+            <h5 class="type-42">Mechanical</h5>
+            <div class="spacer-36"></div>
+        </div>
+    </div>
+    <div class="modern-grid backyard-models-specs-table-collapsible-content">
+        <div class="column-1 m-column-0"></div>
+        <div class="column-10 m-column-6 backyard-models-specs-table">
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Solar energy</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Upgrade to 9-panel, 3.4 kW DC photovoltaic system or 18-panel, 6.8 kW DC photovoltaic system</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Heating & cooling</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">High efficiency ducted heat-pump system</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Thermal efficiency</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Walls: R-26; Roof: R-26; Floor: R-28</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Air purification</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">Integrated MERV-13-rated air filtration system</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Water heating</div>
+        <div class="spacer-16 m-spacer-8"></div>
+            <div class="type-15">50 gallon electric heat pump water heater with 67 gallon first-hour hot water delivery</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+            <div class="backyard-models-specs-table-group">
+                <div class="backyard-models-specs-table-section">
+        <div class="type-18 color-text-60">Safety</div>
+        <div class="spacer-16 m-spacer-8"></div>
+                <div class="type-15">Wi-Fi connected smoke and carbon monoxide detector with integrated air quality monitor</div>
+                    <div class="spacer-16 m-spacer-12"></div>
+                <div class="type-15">Fire sprinklers (if required by code)</div>
+    <div class="spacer-50 m-spacer-36"></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+</article>
+
+<div class="backyard-models-basement">
+    <div class="spacer-150 m-spacer-64"></div>
+    <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 m-column-6 doorway-item type-24-light m-type-18-light tablet-hidden" href="/backyard/faq">
+        <div class="doorway-item-foreground">
+            <div>Get answers.</div>
+            <nobr class="nobr">FAQ <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/doorway-faq-mobile/doorway-faq-mobile-1200.webp 768w, /assets/images/doorway/doorway-faq/doorway-faq-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+</div>
+
+    <div class="spacer-120 m-spacer-72"></div>
+    <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">DGM</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to DGM updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 DGM Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+</div>
+

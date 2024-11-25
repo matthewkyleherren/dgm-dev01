@@ -1,0 +1,2654 @@
+    <div class="page-section">
+<div class="page-section-container">
+    <div class="spacer-32 m-spacer-0"></div>
+    <div class="spacer-150 m-spacer-100"></div>
+
+    <div class="modern-grid">
+        <div class="column-1 l-column-0 m-column-0"></div>
+        <div class="column-10 l-column-12 m-column-6">
+            <h1 class="type-120 m-type-72">
+                Compare<br class="desktop-hidden" />
+                <span class="alt">Backyard</span><br class="desktop-hidden" />
+                models
+            </h1>
+            <div class="spacer-64 m-spacer-0"></div>
+        </div>
+    </div>
+
+    <div class="backyard-compare-header">
+        <div class="backyard-compare-header-shadow"></div>
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="spacer-0 m-spacer-24"></div>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="33%">
+                            <a href="/backyard/studio">
+                                <img
+                                    src="/assets/images/backyard/models/models-index-xl-8/models-index-xl-8-1000.webp"
+                                    alt=""
+                                    width="365"
+                                    height="185"
+                                />
+                            </a>
+                            <select class="type-24 m-type-15 alt">
+    <option value="studio" >Studio</option>
+    <option value="onebed" >One bedroom</option>
+    <option value="twobed" >Two bedroom</option>
+    <option value="xl-8" selected>Backyard XL 8</option>
+    <option value="xl-10" >Backyard XL 10</option>
+</select>
+<svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.61328 7.47949C6.38542 7.47949 6.17806 7.38835 5.99121 7.20605L0.789062 1.88086C0.711589 1.80794 0.652344 1.72591 0.611328 1.63477C0.57487 1.53906 0.556641 1.43652 0.556641 1.32715C0.556641 1.17676 0.59082 1.04004 0.65918 0.916992C0.732096 0.793945 0.827799 0.698242 0.946289 0.629883C1.06478 0.556966 1.19922 0.520508 1.34961 0.520508C1.56836 0.520508 1.75977 0.602539 1.92383 0.766602L6.94824 5.91406H6.28516L11.3027 0.766602C11.4668 0.602539 11.6582 0.520508 11.877 0.520508C12.0273 0.520508 12.1618 0.556966 12.2803 0.629883C12.3988 0.698242 12.4922 0.793945 12.5605 0.916992C12.6335 1.04004 12.6699 1.17676 12.6699 1.32715C12.6699 1.54134 12.5924 1.72591 12.4375 1.88086L7.23535 7.20605C7.14876 7.2972 7.05306 7.36556 6.94824 7.41113C6.84342 7.45671 6.73177 7.47949 6.61328 7.47949Z" fill="black"/>
+</svg>
+
+                        </td>
+                        <td width="33%">
+                            <a href="/backyard/one-bedroom">
+                                <img
+                                    src="/assets/images/backyard/models/models-index-twobed/models-index-twobed-1000.webp"
+                                    alt=""
+                                    width="365"
+                                    height="185"
+                                />
+                            </a>
+                            <select class="type-24 m-type-15 alt">
+    <option value="studio" >Studio</option>
+    <option value="onebed" >One bedroom</option>
+    <option value="twobed" selected>Two bedroom</option>
+    <option value="xl-8" >Backyard XL 8</option>
+    <option value="xl-10" >Backyard XL 10</option>
+</select>
+<svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.61328 7.47949C6.38542 7.47949 6.17806 7.38835 5.99121 7.20605L0.789062 1.88086C0.711589 1.80794 0.652344 1.72591 0.611328 1.63477C0.57487 1.53906 0.556641 1.43652 0.556641 1.32715C0.556641 1.17676 0.59082 1.04004 0.65918 0.916992C0.732096 0.793945 0.827799 0.698242 0.946289 0.629883C1.06478 0.556966 1.19922 0.520508 1.34961 0.520508C1.56836 0.520508 1.75977 0.602539 1.92383 0.766602L6.94824 5.91406H6.28516L11.3027 0.766602C11.4668 0.602539 11.6582 0.520508 11.877 0.520508C12.0273 0.520508 12.1618 0.556966 12.2803 0.629883C12.3988 0.698242 12.4922 0.793945 12.5605 0.916992C12.6335 1.04004 12.6699 1.17676 12.6699 1.32715C12.6699 1.54134 12.5924 1.72591 12.4375 1.88086L7.23535 7.20605C7.14876 7.2972 7.05306 7.36556 6.94824 7.41113C6.84342 7.45671 6.73177 7.47949 6.61328 7.47949Z" fill="black"/>
+</svg>
+
+                        </td>
+                        <td width="33%">
+                            <a href="/backyard/two-bedroom">
+                                <img
+                                    src="/assets/images/backyard/models/models-index-onebed/models-index-onebed-1000.webp"
+                                    alt=""
+                                    width="365"
+                                    height="185"
+                                />
+                            </a>
+                            <select class="type-24 m-type-15 alt">
+    <option value="studio" >Studio</option>
+    <option value="onebed" selected>One bedroom</option>
+    <option value="twobed" >Two bedroom</option>
+    <option value="xl-8" >Backyard XL 8</option>
+    <option value="xl-10" >Backyard XL 10</option>
+</select>
+<svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.61328 7.47949C6.38542 7.47949 6.17806 7.38835 5.99121 7.20605L0.789062 1.88086C0.711589 1.80794 0.652344 1.72591 0.611328 1.63477C0.57487 1.53906 0.556641 1.43652 0.556641 1.32715C0.556641 1.17676 0.59082 1.04004 0.65918 0.916992C0.732096 0.793945 0.827799 0.698242 0.946289 0.629883C1.06478 0.556966 1.19922 0.520508 1.34961 0.520508C1.56836 0.520508 1.75977 0.602539 1.92383 0.766602L6.94824 5.91406H6.28516L11.3027 0.766602C11.4668 0.602539 11.6582 0.520508 11.877 0.520508C12.0273 0.520508 12.1618 0.556966 12.2803 0.629883C12.3988 0.698242 12.4922 0.793945 12.5605 0.916992C12.6335 1.04004 12.6699 1.17676 12.6699 1.32715C12.6699 1.54134 12.5924 1.72591 12.4375 1.88086L7.23535 7.20605C7.14876 7.2972 7.05306 7.36556 6.94824 7.41113C6.84342 7.45671 6.73177 7.47949 6.61328 7.47949Z" fill="black"/>
+</svg>
+
+                        </td>
+                    </tr>
+                </table>
+                <div class="spacer-16"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modern-grid backyard-compare-row">
+        <div class="column-1 l-column-0 m-column-0"></div>
+        <div class="column-10 l-column-12 m-column-6">
+            <div class="spacer-72 m-spacer-36"></div>
+            <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                Starting at
+            </div>
+            <div class="spacer-36 m-spacer-24"></div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr valign="top">
+                    <td width="33%" data-layout="studio" hidden>
+                        <div class="backyard-compare-cost">
+    <div class="type-24-light">$147,000</div>
+    <div class="spacer-12 m-spacer-18"></div>
+    <hr class="backyard-compare-cost-divider" />
+    <div class="spacer-8"></div>
+    <div class="backyard-compare-cost-formula type-15 m-type-12 color-text-40">
+        plus installation
+    </div>
+</div>
+
+                    </td>
+                    <td width="33%" data-layout="xl-8">
+                        <div class="backyard-compare-cost">
+    <div class="type-24-light">$233,000</div>
+    <div class="spacer-12 m-spacer-18"></div>
+    <hr class="backyard-compare-cost-divider" />
+    <div class="spacer-8"></div>
+    <div class="backyard-compare-cost-formula type-15 m-type-12 color-text-40">
+        plus installation
+    </div>
+</div>
+
+                    </td>
+                    <td width="33%" data-layout="twobed">
+                        <div class="backyard-compare-cost">
+    <div class="type-24-light">$185,000</div>
+    <div class="spacer-12 m-spacer-18"></div>
+    <hr class="backyard-compare-cost-divider" />
+    <div class="spacer-8"></div>
+    <div class="backyard-compare-cost-formula type-15 m-type-12 color-text-40">
+        plus installation
+    </div>
+</div>
+
+                    </td>
+                    <td width="33%" data-layout="onebed">
+                        <div class="backyard-compare-cost">
+    <div class="type-24-light">$169,000</div>
+    <div class="spacer-12 m-spacer-18"></div>
+    <hr class="backyard-compare-cost-divider" />
+    <div class="spacer-8"></div>
+    <div class="backyard-compare-cost-formula type-15 m-type-12 color-text-40">
+        plus installation
+    </div>
+</div>
+
+                    </td>
+                    <td width="33%" data-layout="xl-10" hidden>
+                        <div class="backyard-compare-cost">
+    <div class="type-24-light">$267,000</div>
+    <div class="spacer-12 m-spacer-18"></div>
+    <hr class="backyard-compare-cost-divider" />
+    <div class="spacer-8"></div>
+    <div class="backyard-compare-cost-formula type-15 m-type-12 color-text-40">
+        plus installation
+    </div>
+</div>
+
+                    </td>
+                </tr>
+            </table>
+            <div class="spacer-100 m-spacer-50"></div>
+        </div>
+    </div>
+    <div class="modern-grid backyard-compare-row">
+        <div class="column-1 l-column-0 m-column-0"></div>
+        <div class="column-10 l-column-12 m-column-6">
+            <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                Dimensions
+            </div>
+            <div class="spacer-36 m-spacer-24"></div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr valign="top">
+                    <td width="33%" data-layout="studio" hidden>
+                        <div class="type-15 color-text-60">Square footage</div>
+                        <div class="type-18 m-type-15">420 gross sq. ft.</div>
+                        <div class="spacer-36 m-spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="xl-8">
+                        <div class="type-15 color-text-60">Square footage</div>
+                        <div class="type-18 m-type-15">800 gross sq. ft.</div>
+                        <div class="spacer-36 m-spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="twobed">
+                        <div class="type-15 color-text-60">Square footage</div>
+                        <div class="type-18 m-type-15">690 gross sq. ft.</div>
+                        <div class="spacer-36 m-spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="onebed">
+                        <div class="type-15 color-text-60">Square footage</div>
+                        <div class="type-18 m-type-15">540 gross sq. ft.</div>
+                        <div class="spacer-36 m-spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="xl-10" hidden>
+                        <div class="type-15 color-text-60">Square footage</div>
+                        <div class="type-18 m-type-15">950 gross sq. ft.</div>
+                        <div class="spacer-36 m-spacer-24"></div>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="33%" data-layout="studio" hidden>
+                        <div class="type-15 color-text-60">Unit dimensions</div>
+                        <div class="type-18 m-type-15">29' W × 15' D</div>
+                        <div class="backyard-compare-unit-dimensions-note">
+    <div class="type-15 m-type-12 color-text-40">
+        Excluding stairs and decks<span class="desktop-hidden">.</span>
+    </div>
+    <div class="spacer-0 m-spacer-4"></div>
+    <div class="type-15 m-type-12 color-text-40">
+        Height: 13'2" without foundation
+    </div>
+</div>
+
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="xl-8">
+                        <div class="type-15 color-text-60">Unit dimensions</div>
+                        <div class="type-18 m-type-15">25' W × 32' D</div>
+                        <div class="backyard-compare-unit-dimensions-note">
+    <div class="type-15 m-type-12 color-text-40">
+        Excluding stairs and decks<span class="desktop-hidden">.</span>
+    </div>
+    <div class="spacer-0 m-spacer-4"></div>
+    <div class="type-15 m-type-12 color-text-40">
+        Height: 13'5½" without foundation
+    </div>
+</div>
+
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="twobed">
+                        <div class="type-15 color-text-60">Unit dimensions</div>
+                        <div class="type-18 m-type-15">47' W × 15' D</div>
+                        <div class="backyard-compare-unit-dimensions-note">
+    <div class="type-15 m-type-12 color-text-40">
+        Excluding stairs and decks<span class="desktop-hidden">.</span>
+    </div>
+    <div class="spacer-0 m-spacer-4"></div>
+    <div class="type-15 m-type-12 color-text-40">
+        Height: 13'2" without foundation
+    </div>
+</div>
+
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="onebed">
+                        <div class="type-15 color-text-60">Unit dimensions</div>
+                        <div class="type-18 m-type-15">37' W × 15' D</div>
+                        <div class="backyard-compare-unit-dimensions-note">
+    <div class="type-15 m-type-12 color-text-40">
+        Excluding stairs and decks<span class="desktop-hidden">.</span>
+    </div>
+    <div class="spacer-0 m-spacer-4"></div>
+    <div class="type-15 m-type-12 color-text-40">
+        Height: 13'2" without foundation
+    </div>
+</div>
+
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="xl-10" hidden>
+                        <div class="type-15 color-text-60">Unit dimensions</div>
+                        <div class="type-18 m-type-15">25' W × 38' D</div>
+                        <div class="backyard-compare-unit-dimensions-note">
+    <div class="type-15 m-type-12 color-text-40">
+        Excluding stairs and decks<span class="desktop-hidden">.</span>
+    </div>
+    <div class="spacer-0 m-spacer-4"></div>
+    <div class="type-15 m-type-12 color-text-40">
+        Height: 13'5½" without foundation
+    </div>
+</div>
+
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="33%" data-layout="studio" hidden>
+                        <div class="type-15 color-text-60">Space requirement</div>
+                        <div class="type-18">39' × 25'</div>
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="onebed">
+                        <div class="type-15 color-text-60">Space requirement</div>
+                        <div class="type-18">47' × 25'</div>
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="twobed">
+                        <div class="type-15 color-text-60">Space requirement</div>
+                        <div class="type-18">57' × 25'</div>
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="xl-8">
+                        <div class="type-15 color-text-60">Space requirement</div>
+                        <div class="type-18">35' × 42'</div>
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                    <td width="33%" data-layout="xl-10" hidden>
+                        <div class="type-15 color-text-60">Space requirement</div>
+                        <div class="type-18">35' × 48'</div>
+                        <div class="spacer-36 spacer-24"></div>
+                    </td>
+                </tr>
+            </table>
+            <div class="spacer-100 m-spacer-50"></div>
+        </div>
+    </div>
+    <div class="modern-grid backyard-compare-row">
+        <div class="column-1 l-column-0 m-column-0"></div>
+        <div class="column-10 l-column-12 m-column-6">
+            <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                Floor plans
+                <span class="type-14 m-type-12 color-text-40">&nbsp;&nbsp;Stairs and decks not represented</span>
+            </div>
+            <div class="spacer-36 m-spacer-24"></div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr valign="top">
+                    <td width="33%" data-layout="studio" hidden>
+                        <div class="backyard-compare-floorplan">
+    <img
+        src="/assets/images/backyard/compare/studio-vertical.svg"
+        width="150"
+        height="290"
+        alt="Floor plan"
+        style="aspect-ratio: 150 / 290;"
+    />
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
+        <span class="type-14 m-type-12 color-text-40">15'</span>
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+    </div>
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
+        <span class="type-14 m-type-12 color-text-40">29'</span>
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+    </div>
+</div>
+<div class="spacer-24"></div>
+
+                    </td>
+                    <td width="33%" data-layout="onebed">
+                        <div class="backyard-compare-floorplan">
+    <img
+        src="/assets/images/backyard/compare/onebed-vertical.svg"
+        width="150"
+        height="370"
+        alt="Floor plan"
+        style="aspect-ratio: 150 / 370;"
+    />
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
+        <span class="type-14 m-type-12 color-text-40">15'</span>
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+    </div>
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
+        <span class="type-14 m-type-12 color-text-40">37'</span>
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+    </div>
+</div>
+<div class="spacer-24"></div>
+
+                    </td>
+                    <td width="33%" data-layout="twobed">
+                        <div class="backyard-compare-floorplan">
+    <img
+        src="/assets/images/backyard/compare/twobed-vertical.svg"
+        width="150"
+        height="470"
+        alt="Floor plan"
+        style="aspect-ratio: 150 / 470;"
+    />
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
+        <span class="type-14 m-type-12 color-text-40">15'</span>
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+    </div>
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
+        <span class="type-14 m-type-12 color-text-40">47'</span>
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+    </div>
+</div>
+<div class="spacer-24"></div>
+
+                    </td>
+                    <td width="33%" data-layout="xl-8">
+                        <div class="backyard-compare-floorplan">
+    <img
+        src="/assets/images/backyard/compare/xl-8-vertical.svg"
+        width="250"
+        height="320"
+        alt="Floor plan"
+        style="aspect-ratio: 250 / 320;"
+    />
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
+        <span class="type-14 m-type-12 color-text-40">25'</span>
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+    </div>
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
+        <span class="type-14 m-type-12 color-text-40">32'</span>
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+    </div>
+</div>
+<div class="spacer-24"></div>
+
+                    </td>
+                    <td width="33%" data-layout="xl-10" hidden>
+                        <div class="backyard-compare-floorplan">
+    <img
+        src="/assets/images/backyard/compare/xl-10.svg"
+        width="250"
+        height="380"
+        alt="Floor plan"
+        style="aspect-ratio: 250 / 380;"
+    />
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-width">
+        <span class="type-14 m-type-12 color-text-40">25'</span>
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-right.svg" loading="lazy" />
+    </div>
+    <div class="backyard-compare-floorplan-dimension backyard-compare-floorplan-dimension-height">
+        <span class="type-14 m-type-12 color-text-40">38'</span>
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+        <img src="/assets/images/backyard/dimension-arrow-top.svg" loading="lazy" />
+    </div>
+</div>
+<div class="spacer-24"></div>
+
+                    </td>
+                </tr>
+            </table>
+            <div class="spacer-100 m-spacer-50"></div>
+        </div>
+    </div>
+    <div class="backyard-compare-collapsible">
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <h2 class="type-72 m-type-30-light">
+                    Exterior
+                    <input type="checkbox" />
+                    <img src="/assets/images/icons/chevron-black-thin.svg" />
+                </h2>
+                <div class="spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Colors
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="33%" data-layout="studio" hidden>
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-bone-white">
+        <div class="type-12">Bone white</div>
+    </div>
+    <div class="specs-content-colors-driftwood">
+        <div class="type-12">Driftwood</div>
+    </div>
+    <div class="specs-content-colors-parchment">
+        <div class="type-12">Parchment</div>
+    </div>
+    <div class="specs-content-colors-evergreen">
+        <div class="type-12">Evergreen</div>
+    </div>
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+</div>
+<div class="spacer-8"></div>
+<div class="type-15 m-type-12 color-text-60 backyard-compare-colors-note">Custom colors available on fiber cement&nbsp;cladding</div>
+
+                        </td>
+                        <td width="33%" data-layout="onebed">
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-bone-white">
+        <div class="type-12">Bone white</div>
+    </div>
+    <div class="specs-content-colors-driftwood">
+        <div class="type-12">Driftwood</div>
+    </div>
+    <div class="specs-content-colors-parchment">
+        <div class="type-12">Parchment</div>
+    </div>
+    <div class="specs-content-colors-evergreen">
+        <div class="type-12">Evergreen</div>
+    </div>
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+</div>
+<div class="spacer-8"></div>
+<div class="type-15 m-type-12 color-text-60 backyard-compare-colors-note">Custom colors available on fiber cement&nbsp;cladding</div>
+
+                        </td>
+                        <td width="33%" data-layout="twobed">
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-bone-white">
+        <div class="type-12">Bone white</div>
+    </div>
+    <div class="specs-content-colors-driftwood">
+        <div class="type-12">Driftwood</div>
+    </div>
+    <div class="specs-content-colors-parchment">
+        <div class="type-12">Parchment</div>
+    </div>
+    <div class="specs-content-colors-evergreen">
+        <div class="type-12">Evergreen</div>
+    </div>
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+</div>
+<div class="spacer-8"></div>
+<div class="type-15 m-type-12 color-text-60 backyard-compare-colors-note">Custom colors available on fiber cement&nbsp;cladding</div>
+
+                        </td>
+                        <td width="33%" data-layout="xl-8">
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-bone-white">
+        <div class="type-12">Bone white</div>
+    </div>
+    <div class="specs-content-colors-driftwood">
+        <div class="type-12">Driftwood</div>
+    </div>
+    <div class="specs-content-colors-parchment">
+        <div class="type-12">Parchment</div>
+    </div>
+    <div class="specs-content-colors-evergreen">
+        <div class="type-12">Evergreen</div>
+    </div>
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+</div>
+<div class="spacer-8"></div>
+<div class="type-15 m-type-12 color-text-60 backyard-compare-colors-note">Custom colors available on fiber cement&nbsp;cladding</div>
+
+                        </td>
+                        <td width="33%" data-layout="xl-10" hidden>
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-bone-white">
+        <div class="type-12">Bone white</div>
+    </div>
+    <div class="specs-content-colors-driftwood">
+        <div class="type-12">Driftwood</div>
+    </div>
+    <div class="specs-content-colors-parchment">
+        <div class="type-12">Parchment</div>
+    </div>
+    <div class="specs-content-colors-evergreen">
+        <div class="type-12">Evergreen</div>
+    </div>
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+</div>
+<div class="spacer-8"></div>
+<div class="type-15 m-type-12 color-text-60 backyard-compare-colors-note">Custom colors available on fiber cement&nbsp;cladding</div>
+
+                        </td>
+                    </tr>
+                </table>
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row backyard-compare-row-collapsible">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Roof colors
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="33%" data-layout="studio" hidden>
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+    <div class="specs-content-colors-metallic-silver">
+        <div class="type-12">Metallic silver</div>
+    </div>
+</div>
+
+                        </td>
+                        <td width="33%" data-layout="onebed">
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+    <div class="specs-content-colors-metallic-silver">
+        <div class="type-12">Metallic silver</div>
+    </div>
+</div>
+
+                        </td>
+                        <td width="33%" data-layout="twobed">
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+    <div class="specs-content-colors-metallic-silver">
+        <div class="type-12">Metallic silver</div>
+    </div>
+</div>
+
+                        </td>
+                        <td width="33%" data-layout="xl-8">
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+    <div class="specs-content-colors-metallic-silver">
+        <div class="type-12">Metallic silver</div>
+    </div>
+</div>
+
+                        </td>
+                        <td width="33%" data-layout="xl-10" hidden>
+                            <div class="specs-content-colors">
+    <div class="specs-content-colors-dark-bronze">
+        <div class="type-12">Dark bronze</div>
+    </div>
+    <div class="specs-content-colors-metallic-silver">
+        <div class="type-12">Metallic silver</div>
+    </div>
+</div>
+
+                        </td>
+                    </tr>
+                </table>
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Structure
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Precision-engineered light-gauge steel frame
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Precision-engineered light-gauge steel frame
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Precision-engineered light-gauge steel frame
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Precision-engineered light-gauge steel frame
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Precision-engineered light-gauge steel frame
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Cladding
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Vertical 7" fiber cement panels with V-groove
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Upgrade to horizontal 24" smooth-coated steel insulated panels
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Vertical 7" fiber cement panels with V-groove
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Upgrade to horizontal 24" smooth-coated steel insulated panels
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Vertical 7" fiber cement panels with V-groove
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Upgrade to horizontal 24" smooth-coated steel insulated panels
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Vertical 7" fiber cement panels with V-groove
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Upgrade to horizontal 24" smooth-coated steel insulated panels
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Vertical 7" fiber cement panels with V-groove
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Upgrade to horizontal 24" smooth-coated steel insulated panels
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Roof
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="33%" data-layout="studio" hidden>
+                            <div class="type-18-light m-type-14 backyard-compare-text">
+                                Galvalume®-coated steel standing seam roof with 5:12 pitch
+                            </div>
+                        </td>
+                        <td width="33%" data-layout="onebed">
+                            <div class="type-18-light m-type-14 backyard-compare-text">
+                                Galvalume®-coated steel standing seam roof with 5:12 pitch
+                            </div>
+                        </td>
+                        <td width="33%" data-layout="twobed">
+                            <div class="type-18-light m-type-14 backyard-compare-text">
+                                Galvalume®-coated steel standing seam roof with 5:12 pitch
+                            </div>
+                        </td>
+                        <td width="33%" data-layout="xl-8">
+                            <div class="type-18-light m-type-14 backyard-compare-text">
+                                Galvalume®-coated steel standing seam roof with 3:12 pitch
+                            </div>
+                        </td>
+                        <td width="33%" data-layout="xl-10" hidden>
+                            <div class="type-18-light m-type-14 backyard-compare-text">
+                                Galvalume®-coated steel standing seam roof with 3:12 pitch
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Windows & doors
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr valign="top">
+                        <td width="33%" data-layout="studio" hidden>
+                            <div class="type-18-light m-type-14 backyard-compare-text">3'&thinsp;×&thinsp;6'8" frosted glass entry door</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Two 3'&thinsp;×&thinsp;5' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Two 3'&thinsp;×&thinsp;3' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Upgrade to double doors with decks and/or front entry stair</div>
+                        </td>
+                        <td width="33%" data-layout="onebed">
+                            <div class="type-18-light m-type-14 backyard-compare-text">3'&thinsp;×&thinsp;6'8" frosted glass entry door</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Three 3'&thinsp;×&thinsp;5' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Two 3'&thinsp;×&thinsp;3' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Upgrade to double doors with decks</div>
+                        </td>
+                        <td width="33%" data-layout="twobed">
+                            <div class="type-18-light m-type-14 backyard-compare-text">3'&thinsp;×&thinsp;6'8" frosted glass entry door</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Three 3'&thinsp;×&thinsp;5' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Three 3'&thinsp;×&thinsp;3' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Upgrade to double doors with decks</div>
+                        </td>
+                        <td width="33%" data-layout="xl-8">
+                            <div class="type-18-light m-type-14 backyard-compare-text">3'&thinsp;×&thinsp;6'8" glass entry door</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Four 3'&thinsp;×&thinsp;5' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Four 3'&thinsp;×&thinsp;3' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Upgrade to double doors with decks</div>
+                        </td>
+                        <td width="33%" data-layout="xl-10" hidden>
+                            <div class="type-18-light m-type-14 backyard-compare-text">3'&thinsp;×&thinsp;6'8" glass entry door</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Four 3'&thinsp;×&thinsp;5' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Five 3'&thinsp;×&thinsp;3' casement windows</div>
+                            <div class="spacer-12 m-spacer-8"></div>
+                            <div class="type-18-light m-type-14 backyard-compare-text">Upgrade to double doors with decks</div>
+                        </td>
+                    </tr>
+                </table>
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Canopy
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Base color-matched aluminum entry canopy
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Additional canopies included with double door upgrades
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Base color-matched aluminum entry canopy
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Additional canopies included with double door upgrades
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Base color-matched aluminum entry canopy
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Additional canopies included with double door upgrades
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Base color-matched aluminum entry canopy
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Additional canopies included with double door upgrades
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Base color-matched aluminum entry canopy
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Additional canopies included with double door upgrades
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Deck
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Clear-stained Western red cedar
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Clear-stained Western red cedar
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Clear-stained Western red cedar
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Clear-stained Western red cedar
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Clear-stained Western red cedar
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+    </div>
+    <div class="backyard-compare-collapsible">
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <h2 class="type-72 m-type-30-light">
+                    Interior
+                    <input type="checkbox" />
+                    <img src="/assets/images/icons/chevron-black-thin.svg" />
+                </h2>
+                <div class="spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Ceiling height
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'10⅞" — 10'10"
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'10⅞" — 10'10"
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'10⅞" — 10'10"
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'10⅞" — 11'
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'10⅞" — 11'
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Flooring
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Waterproof stone composite flooring in oak finish
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Waterproof stone composite flooring in oak finish
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Waterproof stone composite flooring in oak finish
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Waterproof stone composite flooring in oak finish
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Waterproof stone composite flooring in oak finish
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Lighting
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Dimmable 2700k indirect LED ceiling fixtures
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Dimmable 2700k indirect LED ceiling fixtures
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Dimmable 2700k indirect LED ceiling fixtures
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Dimmable 2700k indirect LED ceiling fixtures
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Dimmable 2700k indirect LED ceiling fixtures
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Kitchen
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Signature steel frame base cabinetry with synthetic stone countertop
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Signature steel frame base cabinetry with synthetic stone countertop
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Signature steel frame base cabinetry with synthetic stone countertop
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Custom base cabinetry with synthetic stone countertop and matching backsplash on cooktop wall
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Custom base cabinetry with synthetic stone countertop and matching backsplash on cooktop wall
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Two-tier open shelving with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Two-tier open shelving with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Two-tier open shelving with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Closed wall cabinetry with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Closed wall cabinetry with integrated LED task lighting
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to closed wall cabinetry with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to closed wall cabinetry with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to closed wall cabinetry with integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to 39" × 60" kitchen island with optional wine and beverage cooler
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide four burner induction cooktop
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide four burner induction cooktop
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide four burner induction cooktop
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            30" wide four burner induction cooktop
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            30" wide four burner induction cooktop
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Range hood with exhaust and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Range hood with exhaust and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Range hood with exhaust and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Range hood with exhaust and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Range hood with exhaust and built-in storage
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide single wall convection oven
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide single wall convection oven
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide single wall convection oven
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            30" wide single wall oven
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            30" wide single wall oven
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            23" wide stainless steel sink with polished chrome pull-down single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            23" wide stainless steel sink with polished chrome pull-down single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            23" wide stainless steel sink with polished chrome pull-down single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            29" wide stainless steel sink with polished chrome pull-down single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            29" wide stainless steel sink with polished chrome pull-down single-handle faucet
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            In-sink garbage disposal
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            In-sink garbage disposal
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            In-sink garbage disposal
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            In-sink garbage disposal
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            In-sink garbage disposal
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide integrated drawer dishwasher
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide integrated drawer dishwasher
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide integrated drawer dishwasher
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide panelized dishwasher
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" wide panelized dishwasher
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            27.6" wide refrigerator with bottom freezer and 15 cubic foot capacity
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            27.6" wide refrigerator with bottom freezer and 15 cubic foot capacity
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            27.6" wide refrigerator with bottom freezer and 15 cubic foot capacity
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            33" wide french door refrigerator with bottom freezer and 18 cubic foot capacity
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            33" wide french door refrigerator with bottom freezer and 18 cubic foot capacity
+                        </div>
+            </td>
+    </tr>
+</table>
+
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Bathroom
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            68¾" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            68¾" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            68¾" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            32" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            32" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" × 36" surface-mounted mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" × 36" surface-mounted mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" × 36" surface-mounted mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" × 36" recessed, mirrored medicine cabinet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            24" × 36" recessed, mirrored medicine cabinet
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            34" × 60" cast iron walk-in shower with synthetic stone surround, curb, concealed drain, 24" wide shelf and sliding glass doors
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            34" × 60" cast iron walk-in shower with synthetic stone surround, curb, concealed drain, 24" wide shelf and sliding glass doors
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            34" × 60" cast iron walk-in shower with synthetic stone surround, curb, concealed drain, 24" wide shelf and sliding glass doors
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            32" × 60" cast iron alcove tub with synthetic stone surround, 24" wide shelf and curtain rod
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            32" × 60" cast iron alcove tub with synthetic stone surround, 24" wide shelf and curtain rod
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+    </tr>
+</table>
+
+        <div class="spacer-12"></div>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+    </tr>
+</table>
+
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row" data-may-hide="true">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    En suite bathroom
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            54" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            54" wide vanity with synthetic stone countertop and built-in storage
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Vitreous china sink with polished chrome single-handle faucet
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            40" × 30" recessed, mirrored medicine cabinet
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            40" × 30" recessed, mirrored medicine cabinet
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            34" × 60" cast iron walk-in shower with synthetic stone surround, curb, concealed drain, 24" wide shelf and sliding glass doors
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            34" × 60" cast iron walk-in shower with synthetic stone surround, curb, concealed drain, 24" wide shelf and sliding glass doors
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Hand shower and single-handle valve in polished chrome
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Skirted low-flow toilet with left-hand polished chrome lever
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12 m-spacer-8"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Polished chrome towel hooks and toilet paper holder
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Laundry
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Stacked 4.5 cubic foot capacity washer with 12 wash programs and vented 7.4 cubic foot capacity dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Stacked 4.5 cubic foot capacity washer with 12 wash programs and vented 7.4 cubic foot capacity dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Stacked 4.5 cubic foot capacity washer with 12 wash programs and vented 7.4 cubic foot capacity dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Stacked 4.5 cubic foot capacity washer with 12 wash programs and vented 7.4 cubic foot capacity dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Stacked 4.5 cubic foot capacity washer with 12 wash programs and vented 7.4 cubic foot capacity dryer
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to stacked washer and dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to stacked washer and dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to stacked washer and dryer
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            27" wide fixed laundry shelf with hanging rod and integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            27" wide fixed laundry shelf with hanging rod and integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            27" wide fixed laundry shelf with hanging rod and integrated LED task lighting
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            48" wide laundry counter with integrated LED task lighting and base and wall cabinetry
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            48" wide laundry counter with integrated LED task lighting and base and wall cabinetry
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Interior doors
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom: solid-core pocket door with full-length mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom: solid-core pocket door
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom: solid-core pocket door
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom: solid-core pocket door
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom: solid-core pocket door
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            En suite bathroom: solid-core pocket door
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            En suite bathroom: solid-core pocket door
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bedroom: solid-core pocket door with full-length mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Primary bedroom: solid-core pocket door with full-length mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Primary bedroom: solid-core swing door with full-length mirror
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Primary bedroom: solid-core swing door with full-length mirror
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Secondary bedroom: extra-wide 4' solid-core pocket door
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Secondary bedroom: solid-core swing door
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Secondary bedroom: solid-core swing door
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Storage
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom closet featuring fixed shelf with integrated LED task lighting and three adjustable shelves
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom closet featuring fixed shelf with integrated LED task lighting and three adjustable shelves
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Bathroom closet featuring fixed shelf with integrated LED task lighting and three adjustable shelves
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Shared bath/laundry closet with adjustable shelves and broom storage
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Shared bath/laundry closet with adjustable shelves and broom storage
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Custom wardrobe with hanging rod, open shelving, and drawers
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Custom wardrobe with hanging rod, open shelving, and drawers
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Two custom wardrobes with hanging rod, open shelving, and drawers
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Two custom wardrobes with hanging rod, open shelving, and drawers
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Two custom wardrobes with hanging rod, open shelving, and drawers
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-12"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <hr class="backyard-compare-text-empty" />
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'6" × 2' hallway closet with hanging rod and open shelving
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            7'6" × 2' hallway closet with hanging rod and open shelving
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+    </div>
+    <div class="backyard-compare-collapsible">
+        <div class="modern-grid">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <h2 class="type-72 m-type-30-light">
+                    Mechanical
+                    <input type="checkbox" />
+                    <img src="/assets/images/icons/chevron-black-thin.svg" />
+                </h2>
+                <div class="spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Solar energy
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to 7-panel, 2.7 kW DC photovoltaic system
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to 9-panel, 3.4 kW DC photovoltaic system
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to 12-panel, 4.5 kW DC photovoltaic system
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to 7-panel, 2.7 kW DC photovoltaic system or 14-panel, 5.3 kW DC photovoltaic system
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Upgrade to 9-panel, 3.4 kW DC photovoltaic system or 18-panel, 6.8 kW DC photovoltaic system
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Heating & cooling
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        High efficiency ducted heat-pump system
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        High efficiency ducted heat-pump system
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        High efficiency ducted heat-pump system
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        High efficiency ducted heat-pump system
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        High efficiency ducted heat-pump system
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Thermal efficiency
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Walls: R-21
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Roof: R-33
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Floor: R-27
+                        </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Walls: R-21
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Roof: R-33
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Floor: R-27
+                        </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Walls: R-21
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Roof: R-33
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Floor: R-27
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Walls: R-26
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Roof: R-26
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Floor: R-28
+                        </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Walls: R-26
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Roof: R-26
+                        </div>
+                            <div class="spacer-12"></div>
+                        <div class="type-18-light m-type-14 backyard-compare-text">
+                            Floor: R-28
+                        </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Air purification
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Integrated MERV-13-rated air filtration system
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Integrated MERV-13-rated air filtration system
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Integrated MERV-13-rated air filtration system
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Integrated MERV-13-rated air filtration system
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Integrated MERV-13-rated air filtration system
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Water heating
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        50 gallon electric heat pump water heater with 67 gallon first-hour hot water delivery
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        50 gallon electric heat pump water heater with 67 gallon first-hour hot water delivery
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        50 gallon electric heat pump water heater with 67 gallon first-hour hot water delivery
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        50 gallon electric heat pump water heater with 67 gallon first-hour hot water delivery
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        50 gallon electric heat pump water heater with 67 gallon first-hour hot water delivery
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+        <div class="modern-grid backyard-compare-row">
+            <div class="column-1 l-column-0 m-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <div class="backyard-compare-row-title type-24-light m-type-21-light color-text-60">
+                    Safety
+                </div>
+                <div class="spacer-36 m-spacer-24"></div>
+                
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+            <td width="33%" data-layout="studio">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Wi-Fi connected smoke and carbon monoxide detector with integrated air quality monitor
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Fire sprinklers (if required by code)
+                    </div>
+            </td>
+            <td width="33%" data-layout="onebed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Wi-Fi connected smoke and carbon monoxide detector with integrated air quality monitor
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Fire sprinklers (if required by code)
+                    </div>
+            </td>
+            <td width="33%" data-layout="twobed">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Wi-Fi connected smoke and carbon monoxide detector with integrated air quality monitor
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Fire sprinklers (if required by code)
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-8">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Wi-Fi connected smoke and carbon monoxide detector with integrated air quality monitor
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Fire sprinklers (if required by code)
+                    </div>
+            </td>
+            <td width="33%" data-layout="xl-10">
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Wi-Fi connected smoke and carbon monoxide detector with integrated air quality monitor
+                    </div>
+                        <div class="spacer-12 m-spacer-8"></div>
+                    <div class="type-18-light m-type-14 backyard-compare-text">
+                        Fire sprinklers (if required by code)
+                    </div>
+            </td>
+    </tr>
+</table>
+
+                <div class="spacer-100 m-spacer-50"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="page-section">
+    <div class="page-section-container">
+        <div class="spacer-120 m-spacer-36"></div>
+        <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 m-column-6 doorway-item type-24-light m-type-18-light tablet-hidden" href="/backyard/faq">
+        <div class="doorway-item-foreground">
+            <div>Get answers.</div>
+            <nobr class="nobr">FAQ <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/doorway-faq-mobile/doorway-faq-mobile-1200.webp 768w, /assets/images/doorway/doorway-faq/doorway-faq-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+</div>
+
+        <div class="spacer-120 m-spacer-72"></div>
+        <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">DGM</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to DGM updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 DGM Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</div>
+

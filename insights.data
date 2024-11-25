@@ -1,0 +1,380 @@
+    <div class="page-section">
+    <div class="page-section-container">
+        <div class="spacer-32 m-spacer-0"></div>
+        <div class="spacer-150 m-spacer-100"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-10 m-column-6">
+                <h1 class="type-120 l-type-96 m-type-72">
+                    Insights
+                </h1>
+            </div>
+        </div>
+
+        <div class="spacer-100 l-spacer-80 m-spacer-50"></div>
+        <div class="spacer-0 m-spacer-4"></div>
+
+        <div class="modern-grid">
+            <div class="column-12 m-column-6 insights-index-hero-story-item-image">
+                <a href="/insights/life-with-backyard-meet-the-kurodas">
+                    <img
+                        class="insights-full-width-image rounded-6"
+                        src="/assets/images/insights/04-kuroda/04-kuroda-2880.webp"
+                        width="2880"
+                        height="1762"
+                        alt="Life with Backyard: Meet the Kurodas"
+                        loading="lazy"
+                    />
+                </a>
+            </div>
+        </div>
+
+        <div class="spacer-36 m-spacer-24"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-10 m-column-6">
+                <div class="type-caps type-12 color-text-40">Customer Profile</div>
+                <div class="spacer-24 m-spacer-12"></div>
+                <h2 class="type-60 l-type-48 m-type-30-light">
+                    <a href="/insights/life-with-backyard-meet-the-kurodas">Life with Backyard: Meet the Kurodas</a>
+                </h2>
+            </div>
+        </div>
+
+        <div class="spacer-24 m-spacer-12"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 m-column-0"></div>
+            <div class="column-5 l-column-7 m-column-6">
+                <p class="type-18-light insights-index-hero-story-item-description">
+                    <a href="/insights/life-with-backyard-meet-the-kurodas">
+                        When Southern California retirees Robert and Debbie Kuroda needed a Sacramento pied-à-terre for family visits, they turned to Samara for a solution that was anything but ordinary. Their vision? A cozy, Japanese-inspired retreat that could fit snugly into the backyard of Debbie’s childhood home.
+                    </a>
+                </p>
+                <div class="spacer-24 m-spacer-12"></div>
+                <div class="type-caps type-12 color-text-40">September 4, 2024</div>
+            </div>
+        </div>
+
+        <div class="spacer-64 l-spacer-50"></div>
+
+        <div class="modern-grid">
+            <div class="column-1 l-column-0"></div>
+            <div class="column-10 l-column-12 m-column-6">
+                <hr />
+            </div>
+        </div>
+
+        <div class="spacer-64 l-spacer-50"></div>
+
+        <div class="insights-index-list">
+                <div class="modern-grid insights-index-blog-post-item">
+        <div class="column-1 l-column-0"></div>
+        <div class="column-2 m-column-0 insights-index-blog-post-item-details">
+            <div class="type-caps type-12 color-text-40">
+                ADU Guide
+            </div>
+            <div class="type-caps type-12 color-text-40">
+                October 14, 2024
+            </div>
+        </div>
+        <div class="column-6 l-column-7">
+            <a href="/insights/adu-cost-california">
+                <div class="insights-index-blog-post-item-title">
+                    <h3 class="type-36 m-type-24-light">How Much Does It Cost To Build an ADU in California?</h3>
+                        <span class="desktop-hidden">
+                            <img src="https://www.samara.com/assets/remote/0cbd6443-3673-4085-e6b4-44e240261e00/w=400" alt="How Much Does It Cost To Build an ADU in California?" width="400" height="225" />
+                        </span>
+                </div>
+                <div class="spacer-12"></div>
+                <p class="type-15 color-text-60">Logic would dictate that an accessory dwelling unit (ADU) — a type of housing smaller than most single-family residences — would cost less to build. In fact, the opposite is true, especially for homeowners who want to construct a custom ADU on their property. There are often more costs involved in building an ADU than simple construction or furnishing costs.</p>
+            </a>
+        </div>
+        <div class="desktop-hidden m-column-6 insights-index-blog-post-item-details">
+            <div class="type-caps type-12 color-text-40">
+                <div class="spacer-12"></div>
+                ADU Guide
+            </div>
+            <div class="type-caps type-12 color-text-40">
+                <div class="spacer-12"></div>
+                October 14, 2024
+            </div>
+        </div>
+            <div class="column-2 l-column-3 m-column-0">
+                <a href="/insights/adu-cost-california">
+                    <img src="https://www.samara.com/assets/remote/0cbd6443-3673-4085-e6b4-44e240261e00/w=400" alt="How Much Does It Cost To Build an ADU in California?" width="400" height="225" />
+                </a>
+            </div>
+    </div>
+
+        <div class="modern-grid insights-index-blog-post-item">
+            <div class="column-1 l-column-0"></div>
+            <div class="column-10 l-column-7 m-column-6">
+                <div class="spacer-50"></div>
+                <hr />
+                <div class="spacer-50"></div>
+            </div>
+        </div>
+    <div class="modern-grid insights-index-blog-post-item">
+        <div class="column-1 l-column-0"></div>
+        <div class="column-2 m-column-0 insights-index-blog-post-item-details">
+            <div class="type-caps type-12 color-text-40">
+                ADU Guide
+            </div>
+            <div class="type-caps type-12 color-text-40">
+                October 11, 2024
+            </div>
+        </div>
+        <div class="column-6 l-column-7">
+            <a href="/insights/adu-california">
+                <div class="insights-index-blog-post-item-title">
+                    <h3 class="type-36 m-type-24-light">What Is Considered an ADU in California?</h3>
+                        <span class="desktop-hidden">
+                            <img src="https://www.samara.com/assets/remote/e0a07661-bd4d-4453-36fa-d68eabbf0300/w=400" alt="What Is Considered an ADU in California?" width="400" height="225" />
+                        </span>
+                </div>
+                <div class="spacer-12"></div>
+                <p class="type-15 color-text-60">Accessory dwelling units (ADUs) are known by many names — granny flats, coach houses, ohana units, backyard bungalows, and alley flats — but it can be challenging to find a definitive answer as to what characterizes an ADU. If you’re considering adding an ADU to your property, understanding what you’re getting into is the first, often overlooked, yet critical step in a lengthy process.</p>
+            </a>
+        </div>
+        <div class="desktop-hidden m-column-6 insights-index-blog-post-item-details">
+            <div class="type-caps type-12 color-text-40">
+                <div class="spacer-12"></div>
+                ADU Guide
+            </div>
+            <div class="type-caps type-12 color-text-40">
+                <div class="spacer-12"></div>
+                October 11, 2024
+            </div>
+        </div>
+            <div class="column-2 l-column-3 m-column-0">
+                <a href="/insights/adu-california">
+                    <img src="https://www.samara.com/assets/remote/e0a07661-bd4d-4453-36fa-d68eabbf0300/w=400" alt="What Is Considered an ADU in California?" width="400" height="225" />
+                </a>
+            </div>
+    </div>
+
+        <div class="modern-grid insights-index-blog-post-item">
+            <div class="column-1 l-column-0"></div>
+            <div class="column-10 l-column-7 m-column-6">
+                <div class="spacer-50"></div>
+                <hr />
+                <div class="spacer-50"></div>
+            </div>
+        </div>
+    <div class="modern-grid insights-index-blog-post-item">
+        <div class="column-1 l-column-0"></div>
+        <div class="column-2 m-column-0 insights-index-blog-post-item-details">
+            <div class="type-caps type-12 color-text-40">
+                ADU Guide
+            </div>
+            <div class="type-caps type-12 color-text-40">
+                September 18, 2024
+            </div>
+        </div>
+        <div class="column-6 l-column-7">
+            <a href="/insights/adu-california-grant">
+                <div class="insights-index-blog-post-item-title">
+                    <h3 class="type-36 m-type-24-light">How To Get an ADU Grant in California</h3>
+                        <span class="desktop-hidden">
+                            <img src="https://www.samara.com/assets/remote/4e095cd5-6432-4dd8-42de-02f965b60400/w=400" alt="How To Get an ADU Grant in California" width="400" height="225" />
+                        </span>
+                </div>
+                <div class="spacer-12"></div>
+                <p class="type-15 color-text-60">Despite the potentially steep initial investment, an accessory dwelling unit (ADU) can provide measurable value to you and your home. However, figuring out how to fund your ADU project can be challenging, especially if you’re already covering a mortgage payment for your primary home.</p>
+            </a>
+        </div>
+        <div class="desktop-hidden m-column-6 insights-index-blog-post-item-details">
+            <div class="type-caps type-12 color-text-40">
+                <div class="spacer-12"></div>
+                ADU Guide
+            </div>
+            <div class="type-caps type-12 color-text-40">
+                <div class="spacer-12"></div>
+                September 18, 2024
+            </div>
+        </div>
+            <div class="column-2 l-column-3 m-column-0">
+                <a href="/insights/adu-california-grant">
+                    <img src="https://www.samara.com/assets/remote/4e095cd5-6432-4dd8-42de-02f965b60400/w=400" alt="How To Get an ADU Grant in California" width="400" height="225" />
+                </a>
+            </div>
+    </div>
+
+
+        </div>
+
+
+        <div class="spacer-150 l-spacer-72"></div>
+    </div>
+</div>
+
+<div class="page-section insights-footer">
+    <div class="page-section-container">
+        <div class="spacer-100 l-spacer-72"></div>
+        <div class="modern-grid">
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light l-type-18-light m-type-18-light" href="/backyard/configure">
+        <div class="doorway-item-foreground">
+            <div>Make Backyard&nbsp;yours.</div>
+            Configure <nobr class="nobr">in&nbsp;3D&nbsp;<img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/configure-portrait/configure-portrait-1200.webp 768w, /assets/images/doorway/configure-landscape/configure-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item doorway-item-inverted type-24-light m-type-18-light" href="/showrooms">
+        <div class="doorway-item-foreground">
+            <div>Seeing is&nbsp;believing.</div>
+            Find <nobr class="nobr">a&nbsp;showroom <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-white.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/showroom-portrait/showroom-portrait-1200.webp 768w, /assets/images/doorway/showroom-landscape/showroom-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 l-column-4 m-column-6 doorway-item type-24-light m-type-18-light" href="/developers">
+        <div class="doorway-item-foreground">
+            <div>Backyard Multiunit.</div>
+            For <nobr class="nobr">developers <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/multiunit-portrait/multiunit-portrait-1200.webp 768w, /assets/images/doorway/multiunit-landscape/multiunit-landscape-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+    <a class="column-3 m-column-6 doorway-item type-24-light m-type-18-light tablet-hidden" href="/backyard/faq">
+        <div class="doorway-item-foreground">
+            <div>Get answers.</div>
+            <nobr class="nobr">FAQ <img
+                class="doorway-item-arrow"
+                src="/assets/images/icons/arrow-right-black.svg"
+                width="24"
+                height="16"
+                alt="→"
+                loading="lazy"
+            /></nobr>
+        </div>
+        <img
+            class="doorway-item-background"
+            srcset="/assets/images/doorway/doorway-faq-mobile/doorway-faq-mobile-1200.webp 768w, /assets/images/doorway/doorway-faq/doorway-faq-720.webp"
+            alt=""
+            loading="lazy"
+            width="315"
+            height="432"
+        />
+    </a>
+</div>
+
+        <div class="spacer-120 m-spacer-72"></div>
+        <div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="/" class="alt">Samara</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/insights">Insights</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li><a href="/showrooms">Showrooms</a></li>
+                <li><a href="/developers">For Developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="/backyard" class="alt">Backyard</a></li>
+                <li><a href="/backyard/models">Models</a></li>
+                <li><a href="/backyard/configure">Design yours</a></li>
+                <li><a href="/backyard/how-it-works">How it works</a></li>
+                <li><a href="/backyard/financing">Financing</a></li>
+                <li><a href="/backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="https://instagram.com/meetsamara" target="_blank">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@meetsamara/" target="_blank">YouTube</a></li>
+                <li><a href="https://www.linkedin.com/company/meetsamara" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s&nbsp;next.</div>
+                <form class="footer-contact-input" action="/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="/assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="/assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2024 Samara Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+                <ol class="footnotes">
+                    <li>“Net zero” may change for build sites with significant shading.</li>
+                </ol>
+            <div class="footer-legal-links">
+                    <a href="/privacy-policy">Privacy policy</a>
+                    <a href="/terms-of-service">Terms of service</a>
+            </div>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+    </div>
+</div>
+
